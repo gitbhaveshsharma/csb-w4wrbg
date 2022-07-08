@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://gitbhaveshsharma.github.io/csb-w4wrbg/static/css/main.1ee7fbe7.chunk.css",
+    "main.js": "https://gitbhaveshsharma.github.io/csb-w4wrbg/static/js/main.82eaf55a.chunk.js",
+    "main.js.map": "https://gitbhaveshsharma.github.io/csb-w4wrbg/static/js/main.82eaf55a.chunk.js.map",
+    "runtime-main.js": "https://gitbhaveshsharma.github.io/csb-w4wrbg/static/js/runtime-main.288119db.js",
+    "runtime-main.js.map": "https://gitbhaveshsharma.github.io/csb-w4wrbg/static/js/runtime-main.288119db.js.map",
+    "static/js/2.d96fa6f0.chunk.js": "https://gitbhaveshsharma.github.io/csb-w4wrbg/static/js/2.d96fa6f0.chunk.js",
+    "static/js/2.d96fa6f0.chunk.js.map": "https://gitbhaveshsharma.github.io/csb-w4wrbg/static/js/2.d96fa6f0.chunk.js.map",
+    "index.html": "https://gitbhaveshsharma.github.io/csb-w4wrbg/index.html",
+    "static/css/main.1ee7fbe7.chunk.css.map": "https://gitbhaveshsharma.github.io/csb-w4wrbg/static/css/main.1ee7fbe7.chunk.css.map",
+    "static/js/2.d96fa6f0.chunk.js.LICENSE.txt": "https://gitbhaveshsharma.github.io/csb-w4wrbg/static/js/2.d96fa6f0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.288119db.js",
+    "static/js/2.d96fa6f0.chunk.js",
+    "static/css/main.1ee7fbe7.chunk.css",
+    "static/js/main.82eaf55a.chunk.js"
+  ]
+}
